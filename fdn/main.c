@@ -1,6 +1,6 @@
 // -----------------------------------------------------
 // twitter: @t_nabroski
-// https://github.com/bmFicg/audioexp/edit/fdn/fdn/main.c
+// https://github.com/bmFicg/audioexp/blob/master/fdn/main.c
 // License Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 // https://creativecommons.org/licenses/by-nc/4.0/
 // -----------------------------------------------------
