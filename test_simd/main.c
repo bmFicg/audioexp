@@ -57,24 +57,3 @@ int main()
 	// clean up
 	_pclose(pipeout);
 }
-
-
-/*
-#include <nmmintrin.h> // for SSE4.2
-#include <stdio.h>
-
-
-int main()
-{
-   __m128 a4 = _mm_set_ps( 4.0f, 4.1f, 4.2f, 4.3f );
-__m128 b4 = _mm_set_ps( 1.0f, 1.0f, 1.0f, 1.0f );
-
-   __m128 sum4 = _mm_add_ps( a4, b4 );
-	
-	 printf("%f, %f, %f, %f\n", sum4[0], sum4[1], sum4[2], sum4[3]);
-
-    //vector1 = _mm_shuffle_ps(vector1, vector1, _MM_SHUFFLE(0,1,2,3));
-    // vector1 is now (1, 2, 3, 4) (above shuffle reversed it)
-    return 0;
-}
-*/
