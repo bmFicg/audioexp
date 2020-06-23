@@ -56,4 +56,5 @@ int main()
 
 	// clean up
 	_pclose(pipeout);
+	free(y);
 }
