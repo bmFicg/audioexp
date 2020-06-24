@@ -1,6 +1,6 @@
 ###Feedback Delay Network  
   
-clone a singel folder (git version>=2.2 required) :  
+clone a singel folder (git version>=2.25 required) :  
 > git clone --filter=blob:none https://github.com/bmFicg/audioexp.git    
 > cd audioexp  
 > git sparse-checkout init  
