@@ -1,12 +1,12 @@
 ###Feedback Delay Network  
   
-clone a singel folder (git version>=2.2 required) :
-> git clone --filter=blob:none https://github.com/bmFicg/audioexp.git  
-> cd audioexp
-> git sparse-checkout init
-> git sparse-checkout set fdn
-
+clone a singel folder (git version>=2.2 required) :  
+> git clone --filter=blob:none https://github.com/bmFicg/audioexp.git    
+> cd audioexp  
+> git sparse-checkout init  
+> git sparse-checkout set fdn  
   
+    
 #### using the *.bat file to build on Windows  
   
 assuming gcc compiler and ffmpeg / ffplay is set in PATH system environment variable  
